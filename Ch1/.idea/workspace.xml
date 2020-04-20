@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77c1edb9-d1e3-41ee-b6a0-a903578ae318" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_1_3_19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_1_3_20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_1_3_21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_1_3_24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_1_3_25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_1_3_26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_1_3_27_28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_1_3_30.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_1_3_32.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Node.java" afterDir="false" />
+    <list default="true" id="77c1edb9-d1e3-41ee-b6a0-a903578ae318" name="Default" comment="提交1.3链表部分习题">
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_1_4_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_1_4_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_1_4_8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ch1/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ch1/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +38,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.Ex_1_3_27_28">
+  <component name="RunManager" selected="Application.Ex_1_4_12">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -55,32 +46,8 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="Ex_1_3_21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex_1_3_21" />
-      <module name="Ch1" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex_1_3_24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex_1_3_24" />
-      <module name="Ch1" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex_1_3_25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex_1_3_25" />
-      <module name="Ch1" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex_1_3_26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex_1_3_26" />
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch" />
       <module name="Ch1" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -89,6 +56,30 @@
     </configuration>
     <configuration name="Ex_1_3_27_28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex_1_3_27_28" />
+      <module name="Ch1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex_1_4_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_1_4_10" />
+      <module name="Ch1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex_1_4_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_1_4_12" />
+      <module name="Ch1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex_1_4_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_1_4_8" />
       <module name="Ch1" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -127,19 +118,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Ex_1_3_21" />
-      <item itemvalue="Application.Ex_1_3_24" />
-      <item itemvalue="Application.Ex_1_3_25" />
-      <item itemvalue="Application.Ex_1_3_26" />
       <item itemvalue="Application.Ex_1_3_27_28" />
+      <item itemvalue="Application.Ex_1_4_8" />
+      <item itemvalue="Application.BinarySearch" />
+      <item itemvalue="Application.Ex_1_4_10" />
+      <item itemvalue="Application.Ex_1_4_12" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex_1_4_12" />
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.Ex_1_4_10" />
+        <item itemvalue="Application.Ex_1_4_8" />
         <item itemvalue="Application.Ex_1_3_27_28" />
-        <item itemvalue="Application.Ex_1_3_26" />
-        <item itemvalue="Application.Ex_1_3_25" />
-        <item itemvalue="Application.Ex_1_3_24" />
-        <item itemvalue="Application.Ex_1_3_21" />
       </list>
     </recent_temporary>
   </component>
@@ -154,49 +145,69 @@
       <option name="presentableId" value="Default" />
       <updated>1514208091217</updated>
     </task>
+    <task id="LOCAL-00001" summary="提交1.3链表部分习题">
+      <created>1587365710101</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587365710101</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="提交1.3链表部分习题" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交1.3链表部分习题" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="362" y="46" key="#Project_Structure" timestamp="1587362706214">
+    <state x="362" y="46" key="#Project_Structure" timestamp="1587373729298">
       <screen x="0" y="0" width="1739" height="939" />
     </state>
-    <state x="362" y="46" key="#Project_Structure/0.0.1739.939@0.0.1739.939" timestamp="1587362706214" />
+    <state x="362" y="46" key="#Project_Structure/0.0.1739.939@0.0.1739.939" timestamp="1587373729298" />
     <state x="555" y="256" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587085479086">
       <screen x="0" y="0" width="1739" height="939" />
     </state>
     <state x="555" y="256" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1739.939@0.0.1739.939" timestamp="1587085479086" />
-    <state width="1686" height="167" key="GridCell.Tab.0.bottom" timestamp="1587363373485">
+    <state x="482" y="0" key="CommitChangelistDialog2" timestamp="1587365708233">
       <screen x="0" y="0" width="1739" height="939" />
     </state>
-    <state width="1686" height="167" key="GridCell.Tab.0.bottom/0.0.1739.939@0.0.1739.939" timestamp="1587363373485" />
-    <state width="1686" height="167" key="GridCell.Tab.0.center" timestamp="1587363373485">
+    <state x="482" y="0" key="CommitChangelistDialog2/0.0.1739.939@0.0.1739.939" timestamp="1587365708233" />
+    <state width="1686" height="204" key="GridCell.Tab.0.bottom" timestamp="1587374006134">
       <screen x="0" y="0" width="1739" height="939" />
     </state>
-    <state width="1686" height="167" key="GridCell.Tab.0.center/0.0.1739.939@0.0.1739.939" timestamp="1587363373485" />
-    <state width="1686" height="167" key="GridCell.Tab.0.left" timestamp="1587363373485">
+    <state width="1686" height="204" key="GridCell.Tab.0.bottom/0.0.1739.939@0.0.1739.939" timestamp="1587374006134" />
+    <state width="1686" height="204" key="GridCell.Tab.0.center" timestamp="1587374006134">
       <screen x="0" y="0" width="1739" height="939" />
     </state>
-    <state width="1686" height="167" key="GridCell.Tab.0.left/0.0.1739.939@0.0.1739.939" timestamp="1587363373485" />
-    <state width="1686" height="167" key="GridCell.Tab.0.right" timestamp="1587363373485">
+    <state width="1686" height="204" key="GridCell.Tab.0.center/0.0.1739.939@0.0.1739.939" timestamp="1587374006134" />
+    <state width="1686" height="204" key="GridCell.Tab.0.left" timestamp="1587374006134">
       <screen x="0" y="0" width="1739" height="939" />
     </state>
-    <state width="1686" height="167" key="GridCell.Tab.0.right/0.0.1739.939@0.0.1739.939" timestamp="1587363373485" />
-    <state width="1686" height="277" key="GridCell.Tab.1.bottom" timestamp="1587195722731">
+    <state width="1686" height="204" key="GridCell.Tab.0.left/0.0.1739.939@0.0.1739.939" timestamp="1587374006134" />
+    <state width="1686" height="204" key="GridCell.Tab.0.right" timestamp="1587374006134">
       <screen x="0" y="0" width="1739" height="939" />
     </state>
-    <state width="1686" height="277" key="GridCell.Tab.1.bottom/0.0.1739.939@0.0.1739.939" timestamp="1587195722731" />
-    <state width="1686" height="277" key="GridCell.Tab.1.center" timestamp="1587195722730">
+    <state width="1686" height="204" key="GridCell.Tab.0.right/0.0.1739.939@0.0.1739.939" timestamp="1587374006134" />
+    <state width="1686" height="245" key="GridCell.Tab.1.bottom" timestamp="1587373646573">
       <screen x="0" y="0" width="1739" height="939" />
     </state>
-    <state width="1686" height="277" key="GridCell.Tab.1.center/0.0.1739.939@0.0.1739.939" timestamp="1587195722730" />
-    <state width="1686" height="277" key="GridCell.Tab.1.left" timestamp="1587195722730">
+    <state width="1686" height="245" key="GridCell.Tab.1.bottom/0.0.1739.939@0.0.1739.939" timestamp="1587373646573" />
+    <state width="1686" height="245" key="GridCell.Tab.1.center" timestamp="1587373646573">
       <screen x="0" y="0" width="1739" height="939" />
     </state>
-    <state width="1686" height="277" key="GridCell.Tab.1.left/0.0.1739.939@0.0.1739.939" timestamp="1587195722730" />
-    <state width="1686" height="277" key="GridCell.Tab.1.right" timestamp="1587195722731">
+    <state width="1686" height="245" key="GridCell.Tab.1.center/0.0.1739.939@0.0.1739.939" timestamp="1587373646573" />
+    <state width="1686" height="245" key="GridCell.Tab.1.left" timestamp="1587373646573">
       <screen x="0" y="0" width="1739" height="939" />
     </state>
-    <state width="1686" height="277" key="GridCell.Tab.1.right/0.0.1739.939@0.0.1739.939" timestamp="1587195722731" />
+    <state width="1686" height="245" key="GridCell.Tab.1.left/0.0.1739.939@0.0.1739.939" timestamp="1587373646573" />
+    <state width="1686" height="245" key="GridCell.Tab.1.right" timestamp="1587373646573">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state width="1686" height="245" key="GridCell.Tab.1.right/0.0.1739.939@0.0.1739.939" timestamp="1587373646573" />
+    <state x="362" y="139" key="Vcs.Push.Dialog.v2" timestamp="1587365712356">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="362" y="139" key="Vcs.Push.Dialog.v2/0.0.1739.939@0.0.1739.939" timestamp="1587365712356" />
     <state x="490" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1587349843303">
       <screen x="0" y="0" width="1739" height="939" />
     </state>
