@@ -2,11 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77c1edb9-d1e3-41ee-b6a0-a903578ae318" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ex_1_3_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_1_3_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_1_3_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_1_3_19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_1_3_20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_1_3_21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_1_3_24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_1_3_25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_1_3_26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_1_3_27_28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_1_3_30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_1_3_32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Node.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ch1/Ex_1_1_20.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ch1/Ex_1_1_20.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ch1/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ch1/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,12 +41,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.Ex_1_3_11">
+  <component name="RunManager" selected="Application.Ex_1_3_27_28">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -45,40 +55,40 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="Ex_1_1_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex_1_1_16" />
+    <configuration name="Ex_1_3_21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_1_3_21" />
       <module name="Ch1" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex_1_1_19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex_1_1_19" />
+    <configuration name="Ex_1_3_24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_1_3_24" />
       <module name="Ch1" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex_1_1_20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex_1_1_20" />
+    <configuration name="Ex_1_3_25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_1_3_25" />
       <module name="Ch1" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex_1_3_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex_1_3_10" />
+    <configuration name="Ex_1_3_26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_1_3_26" />
       <module name="Ch1" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex_1_3_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex_1_3_11" />
+    <configuration name="Ex_1_3_27_28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_1_3_27_28" />
       <module name="Ch1" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -117,19 +127,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Ex_1_1_16" />
-      <item itemvalue="Application.Ex_1_1_19" />
-      <item itemvalue="Application.Ex_1_1_20" />
-      <item itemvalue="Application.Ex_1_3_10" />
-      <item itemvalue="Application.Ex_1_3_11" />
+      <item itemvalue="Application.Ex_1_3_21" />
+      <item itemvalue="Application.Ex_1_3_24" />
+      <item itemvalue="Application.Ex_1_3_25" />
+      <item itemvalue="Application.Ex_1_3_26" />
+      <item itemvalue="Application.Ex_1_3_27_28" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ex_1_3_11" />
-        <item itemvalue="Application.Ex_1_3_10" />
-        <item itemvalue="Application.Ex_1_1_20" />
-        <item itemvalue="Application.Ex_1_1_19" />
-        <item itemvalue="Application.Ex_1_1_16" />
+        <item itemvalue="Application.Ex_1_3_27_28" />
+        <item itemvalue="Application.Ex_1_3_26" />
+        <item itemvalue="Application.Ex_1_3_25" />
+        <item itemvalue="Application.Ex_1_3_24" />
+        <item itemvalue="Application.Ex_1_3_21" />
       </list>
     </recent_temporary>
   </component>
@@ -147,49 +157,49 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="362" y="46" key="#Project_Structure" timestamp="1587194411287">
+    <state x="362" y="46" key="#Project_Structure" timestamp="1587362706214">
       <screen x="0" y="0" width="1739" height="939" />
     </state>
-    <state x="362" y="46" key="#Project_Structure/0.0.1739.939@0.0.1739.939" timestamp="1587194411287" />
+    <state x="362" y="46" key="#Project_Structure/0.0.1739.939@0.0.1739.939" timestamp="1587362706214" />
     <state x="555" y="256" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587085479086">
       <screen x="0" y="0" width="1739" height="939" />
     </state>
     <state x="555" y="256" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1739.939@0.0.1739.939" timestamp="1587085479086" />
-    <state width="1686" height="167" key="GridCell.Tab.0.bottom" timestamp="1587195217699">
+    <state width="1686" height="167" key="GridCell.Tab.0.bottom" timestamp="1587363373485">
       <screen x="0" y="0" width="1739" height="939" />
     </state>
-    <state width="1686" height="167" key="GridCell.Tab.0.bottom/0.0.1739.939@0.0.1739.939" timestamp="1587195217699" />
-    <state width="1686" height="167" key="GridCell.Tab.0.center" timestamp="1587195217699">
+    <state width="1686" height="167" key="GridCell.Tab.0.bottom/0.0.1739.939@0.0.1739.939" timestamp="1587363373485" />
+    <state width="1686" height="167" key="GridCell.Tab.0.center" timestamp="1587363373485">
       <screen x="0" y="0" width="1739" height="939" />
     </state>
-    <state width="1686" height="167" key="GridCell.Tab.0.center/0.0.1739.939@0.0.1739.939" timestamp="1587195217699" />
-    <state width="1686" height="167" key="GridCell.Tab.0.left" timestamp="1587195217699">
+    <state width="1686" height="167" key="GridCell.Tab.0.center/0.0.1739.939@0.0.1739.939" timestamp="1587363373485" />
+    <state width="1686" height="167" key="GridCell.Tab.0.left" timestamp="1587363373485">
       <screen x="0" y="0" width="1739" height="939" />
     </state>
-    <state width="1686" height="167" key="GridCell.Tab.0.left/0.0.1739.939@0.0.1739.939" timestamp="1587195217699" />
-    <state width="1686" height="167" key="GridCell.Tab.0.right" timestamp="1587195217699">
+    <state width="1686" height="167" key="GridCell.Tab.0.left/0.0.1739.939@0.0.1739.939" timestamp="1587363373485" />
+    <state width="1686" height="167" key="GridCell.Tab.0.right" timestamp="1587363373485">
       <screen x="0" y="0" width="1739" height="939" />
     </state>
-    <state width="1686" height="167" key="GridCell.Tab.0.right/0.0.1739.939@0.0.1739.939" timestamp="1587195217699" />
-    <state width="1686" height="277" key="GridCell.Tab.1.bottom" timestamp="1587193182592">
+    <state width="1686" height="167" key="GridCell.Tab.0.right/0.0.1739.939@0.0.1739.939" timestamp="1587363373485" />
+    <state width="1686" height="277" key="GridCell.Tab.1.bottom" timestamp="1587195722731">
       <screen x="0" y="0" width="1739" height="939" />
     </state>
-    <state width="1686" height="277" key="GridCell.Tab.1.bottom/0.0.1739.939@0.0.1739.939" timestamp="1587193182592" />
-    <state width="1686" height="277" key="GridCell.Tab.1.center" timestamp="1587193182592">
+    <state width="1686" height="277" key="GridCell.Tab.1.bottom/0.0.1739.939@0.0.1739.939" timestamp="1587195722731" />
+    <state width="1686" height="277" key="GridCell.Tab.1.center" timestamp="1587195722730">
       <screen x="0" y="0" width="1739" height="939" />
     </state>
-    <state width="1686" height="277" key="GridCell.Tab.1.center/0.0.1739.939@0.0.1739.939" timestamp="1587193182592" />
-    <state width="1686" height="277" key="GridCell.Tab.1.left" timestamp="1587193182592">
+    <state width="1686" height="277" key="GridCell.Tab.1.center/0.0.1739.939@0.0.1739.939" timestamp="1587195722730" />
+    <state width="1686" height="277" key="GridCell.Tab.1.left" timestamp="1587195722730">
       <screen x="0" y="0" width="1739" height="939" />
     </state>
-    <state width="1686" height="277" key="GridCell.Tab.1.left/0.0.1739.939@0.0.1739.939" timestamp="1587193182592" />
-    <state width="1686" height="277" key="GridCell.Tab.1.right" timestamp="1587193182592">
+    <state width="1686" height="277" key="GridCell.Tab.1.left/0.0.1739.939@0.0.1739.939" timestamp="1587195722730" />
+    <state width="1686" height="277" key="GridCell.Tab.1.right" timestamp="1587195722731">
       <screen x="0" y="0" width="1739" height="939" />
     </state>
-    <state width="1686" height="277" key="GridCell.Tab.1.right/0.0.1739.939@0.0.1739.939" timestamp="1587193182592" />
-    <state x="490" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1587191584649">
+    <state width="1686" height="277" key="GridCell.Tab.1.right/0.0.1739.939@0.0.1739.939" timestamp="1587195722731" />
+    <state x="490" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1587349843303">
       <screen x="0" y="0" width="1739" height="939" />
     </state>
-    <state x="490" y="254" key="com.intellij.ide.util.TipDialog/0.0.1739.939@0.0.1739.939" timestamp="1587191584649" />
+    <state x="490" y="254" key="com.intellij.ide.util.TipDialog/0.0.1739.939@0.0.1739.939" timestamp="1587349843303" />
   </component>
 </project>
