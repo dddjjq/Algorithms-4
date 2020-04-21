@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77c1edb9-d1e3-41ee-b6a0-a903578ae318" name="Default" comment="提交1.4部分习题">
-      <change afterPath="$PROJECT_DIR$/src/Ex_1_5_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_1_5_2.java" afterDir="false" />
+    <list default="true" id="77c1edb9-d1e3-41ee-b6a0-a903578ae318" name="Default" comment="提交1.5部分习题">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -158,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587381206900</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="提交1.5部分习题">
+      <created>1587437893810</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587437893810</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -177,7 +182,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="提交1.3链表部分习题" />
     <MESSAGE value="提交1.4部分习题" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交1.4部分习题" />
+    <MESSAGE value="提交1.5部分习题" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交1.5部分习题" />
   </component>
   <component name="WindowStateProjectService">
     <state x="362" y="46" key="#Project_Structure" timestamp="1587436876471">
@@ -192,10 +198,10 @@
       <screen x="0" y="0" width="1739" height="939" />
     </state>
     <state x="631" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1739.939@0.0.1739.939" timestamp="1587435965217" />
-    <state x="482" y="0" key="CommitChangelistDialog2" timestamp="1587381205626">
+    <state x="482" y="0" key="CommitChangelistDialog2" timestamp="1587437892013">
       <screen x="0" y="0" width="1739" height="939" />
     </state>
-    <state x="482" y="0" key="CommitChangelistDialog2/0.0.1739.939@0.0.1739.939" timestamp="1587381205626" />
+    <state x="482" y="0" key="CommitChangelistDialog2/0.0.1739.939@0.0.1739.939" timestamp="1587437892013" />
     <state x="93" y="93" width="1553" height="754" key="DiffContextDialog" timestamp="1587381253498">
       <screen x="0" y="0" width="1739" height="939" />
     </state>
@@ -232,10 +238,10 @@
       <screen x="0" y="0" width="1739" height="939" />
     </state>
     <state width="1686" height="245" key="GridCell.Tab.1.right/0.0.1739.939@0.0.1739.939" timestamp="1587382045922" />
-    <state x="362" y="139" key="Vcs.Push.Dialog.v2" timestamp="1587381208230">
+    <state x="362" y="139" key="Vcs.Push.Dialog.v2" timestamp="1587437900815">
       <screen x="0" y="0" width="1739" height="939" />
     </state>
-    <state x="362" y="139" key="Vcs.Push.Dialog.v2/0.0.1739.939@0.0.1739.939" timestamp="1587381208230" />
+    <state x="362" y="139" key="Vcs.Push.Dialog.v2/0.0.1739.939@0.0.1739.939" timestamp="1587437900815" />
     <state x="490" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1587435654158">
       <screen x="0" y="0" width="1739" height="939" />
     </state>
